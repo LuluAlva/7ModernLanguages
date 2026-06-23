@@ -1,6 +1,6 @@
 name="Lulu"
 age= 33
-favorite_hobby="swimming"
+favorite_hobby="embedded systems"
 
 print(name)
 print(age)
