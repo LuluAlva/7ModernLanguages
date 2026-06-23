@@ -1,6 +1,6 @@
-name= "Lulu"
-age= 33
-favorite_hobby= "swimming"
+name = "Lulu"
+age = 33
+favorite_hobby = "filming"
 
 print(name)
 print(age)
