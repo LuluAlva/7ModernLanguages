@@ -1,5 +1,5 @@
 name="Lulu"
-age=30
+age= "30"
 favorite_hobby="swimming"
 
 print(name)
